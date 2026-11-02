@@ -1,0 +1,11 @@
+NEXORA — a premium electronics storefront concept.
+
+Designed and developed as a portfolio project by VOID GENEX.
+
+The concept brings together a modern dark interface, product browsing, category filters and a curated catalogue across audio, wearables, gaming, displays and accessories.
+
+Built with HTML, CSS and JavaScript, with product information managed through JSON.
+
+This is a demo concept. Product names, prices and specifications are illustrative and are not available for real purchase.
+
+#VOIDGENEX #NEXORA #WebDesign #FrontendDevelopment #UIDesign #EcommerceDesign #HTML #CSS #JavaScript #PortfolioProject
